@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Dispatch From The Fox Hole",
+    "description": "",
+    "home_page_url": "https://laucian23.github.io/Dispatch-From-the-Fox-Hole",
+    "feed_url": "https://laucian23.github.io/Dispatch-From-the-Fox-Hole/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Dispatch Editorial Team"
+    },
+    "items": [
+        {
+            "id": "https://laucian23.github.io/Dispatch-From-the-Fox-Hole/test/",
+            "url": "https://laucian23.github.io/Dispatch-From-the-Fox-Hole/test/",
+            "title": "Our History",
+            "summary": "It goes without saying, that an unfortunate amount of the Student Body remains unaware of our school's collective history. It is a history that is not often regarded, and as often as it is forgot, it is just as often misremembered. It isn't difficult to&hellip;",
+            "content_html": "<p>It goes without saying, that an unfortunate amount of the Student Body remains unaware of our school's collective history. It is a history that is not often regarded, and as often as it is forgot, it is just as often misremembered. It isn't difficult to see why students lack any identification with their current student representation groups. It is simply a consequence of years of policy that works to alienate and deprioritize student led projects and voices.</p>\n<p>It bears mentioning, however, that this was not always the case. For a period of time few people are aware of, the student body did have a consistent means of representation. A group of passionate, dedicated students who sought to bring the highest journalistic standards to the students. This group organized themselves under the name: 'The Carousel'. They were in regular operation from 1956-1978. Little is known about their work, as few archival copies have stood the test of time. Even today, our editorial team has conducted significant research and still uncovered little evidence of their activities beyond their existence. And yet, exist they still did. </p>\n<p>Proof of this came, when in 1978 the group formally changed their name to 'The Fox Tales' and ramped up production and scale. What was once only a few students, had now blossomed into a well oiled machine. Remnants of this period of the groups history still exist to this day. Most evident in the faculty newsletter (that few students are aware of, and of which no student can participate) which has adopted and used their moniker.</p>\n<p>All good things come to an end, unfortunately, and for reasons unknown (or undisclosed), the group ceased production in 1994. Little can be extrapolated from this beyond conjecture. Is it possible that they simply fizzled out from lack of membership? Perhaps. Was it the result of the moving of campus? Sure. Is it also possible that the student voice was once more kicked to the wayside. No one can definitively say.</p>\n<p>All that said, our mission becomes clear. At a time when enrollment is at an all time high, changes and stratagem in the faculty are constantly evolving, and when students feel more so than ever unseen and unheard; we must come forth. Think of those who will come after us, those who will graduate in years to come. If they, when only freshmen, are unaware of the policies and information that is not readily available to the them, certainly no one can contrast the new with the old. Gauge interest. Garner feedback.</p>\n<p>This is why we are here, and why we stand. With an editorial body numbering in the double digits, interest and reception in the student body at upwards fifty prospective members, we present ourselves as the new reliable source of all news concerning student life. We will continue in this endeavor in face of opposition, ensuring we remain unbiased and factual in everything we present. That, is why <strong>we</strong> write. </p>\n<p>For <strong>you</strong>,</p>\n<p>For <strong>all of us</strong>.</p>",
+            "author": {
+                "name": "Dispatch Editorial Team"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-08-18T14:38:48-05:00",
+            "date_modified": "2025-08-18T15:21:29-05:00"
+        }
+    ]
+}
